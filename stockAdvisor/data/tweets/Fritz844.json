@@ -1,0 +1,37 @@
+{
+    "last_updated": 1673755495,
+    "tweets": [
+        {
+            "created_at": 1673416370,
+            "text": "RT @smartkarma: Inflation Rear View Mirror https://t.co/RPitKAY7NS",
+            "rating": 0.0,
+            "company_keywords": [
+                "view"
+            ]
+        },
+        {
+            "created_at": 1673326469,
+            "text": "I really cannot tell these Pop Mart figurines and Funko Pops apart https://t.co/8S27R9CPXF",
+            "rating": 0.0,
+            "company_keywords": [
+                "funko"
+            ]
+        },
+        {
+            "created_at": 1672941041,
+            "text": "On SMIC: \u201cIt was a nice party trick... But they can\u2019t produce them at scale... It\u2019s one thing to make a single chip, but it\u2019s another thing to have yield and volume.\u201d\n\nhttps://t.co/9Ub8kZ5PIR",
+            "rating": 0.4118,
+            "company_keywords": [
+                "nice"
+            ]
+        },
+        {
+            "created_at": 1672799352,
+            "text": "I don't get why people obsess about morals when it comes to investing. \n\nIf you buy Coca-Cola shares in the secondary market, will that impact consumption somehow? \n\nOr will buying Tesla accelerate EV adoption? https://t.co/ASXNGdal1v",
+            "rating": 0.1431,
+            "company_keywords": [
+                "tesla"
+            ]
+        }
+    ]
+}

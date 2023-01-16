@@ -1,0 +1,101 @@
+{
+    "last_updated": 1673755494,
+    "tweets": [
+        {
+            "created_at": 1668649471,
+            "text": "RT @JohnPGavin: Translation:  We know we're in trouble and our lawyers told us to post these nice tweets they wrote for us --",
+            "rating": 0.0258,
+            "company_keywords": [
+                "nice"
+            ]
+        },
+        {
+            "created_at": 1668295045,
+            "text": "RT @JohnPGavin: I've had the pleasure of knowing Marc for a long, long time now.  I have to say, his warning on crypto may go down as his b\u2026",
+            "rating": 0.3182,
+            "company_keywords": [
+                "crypto"
+            ]
+        },
+        {
+            "created_at": 1668108494,
+            "text": "RT @direports: There was a full-court press, largely pushed by the right, to the stop SEC from regulating crypto.  They flooded the SEC wit\u2026",
+            "rating": -0.296,
+            "company_keywords": [
+                "crypto"
+            ]
+        },
+        {
+            "created_at": 1667880548,
+            "text": "RT @direports: We're not surprised.  We first found undisclosed SEC investigative activity at Unisys on 04-Mar-2022, and then later confirm\u2026",
+            "rating": -0.1695,
+            "company_keywords": [
+                "unisys"
+            ]
+        },
+        {
+            "created_at": 1666824220,
+            "text": "RT @JohnPGavin: @WolfpackReports @DonutShorts @WillauerProsky This is such sad news.  Had the chance to get to know Matt.  Really good guy.\u2026",
+            "rating": 0.2716,
+            "company_keywords": [
+                "news"
+            ]
+        },
+        {
+            "created_at": 1665691404,
+            "text": "RT @direports: Update: NASDAQ - Undisclosed SEC probe again confirmed, as of 08-Aug-2022. On 29-Jun-2022, $NDAQ announced receipt of a Well\u2026",
+            "rating": 0.0,
+            "company_keywords": [
+                "nasdaq"
+            ]
+        },
+        {
+            "created_at": 1665069255,
+            "text": "RT @direports: Update:  PetMed Express, Inc. $PETS 12-Jul-2022, FOIA Response - No recent SEC investigative activity found. (published for\u2026",
+            "rating": -0.296,
+            "company_keywords": [
+                "express"
+            ]
+        },
+        {
+            "created_at": 1664987271,
+            "text": "RT @direports: Update:  Xylem, Inc. $XYL  11-Jul-2022, FOIA Response - No recent SEC investigative activity found. (published for clients 2\u2026",
+            "rating": -0.296,
+            "company_keywords": [
+                "xylem"
+            ]
+        },
+        {
+            "created_at": 1664890648,
+            "text": "RT @direports: Imagine if the SEC wasn't afraid of bringing the hammer down on @elonmusk those times they found him misbehaving.\n\nTesla wou\u2026",
+            "rating": -0.4019,
+            "company_keywords": [
+                "tesla"
+            ]
+        },
+        {
+            "created_at": 1663261163,
+            "text": "RT @direports: Update:  NCR Corporation $NCR  As of 21-Jun-2022, no recent SEC investigative activity found.   (First published for clients\u2026",
+            "rating": -0.296,
+            "company_keywords": [
+                "ncr"
+            ]
+        },
+        {
+            "created_at": 1662827405,
+            "text": "RT @direports: After warning of an undisclosed SEC probe at $AMC, company said it \u201chas not been informed that it is the target of any SEC i\u2026",
+            "rating": -0.34,
+            "company_keywords": [
+                "target"
+            ]
+        },
+        {
+            "created_at": 1662129349,
+            "text": "RT @direports: Update:  NuCor Corp. $NUE   No recent SEC investigative activity found.  \n  (First published for clients on 28-Jul-2022)",
+            "rating": -0.296,
+            "company_keywords": [
+                "nucor"
+            ]
+        }
+    ]
+}

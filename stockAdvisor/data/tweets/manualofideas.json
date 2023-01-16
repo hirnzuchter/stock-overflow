@@ -1,0 +1,53 @@
+{
+    "last_updated": 1673755496,
+    "tweets": [
+        {
+            "created_at": 1671215399,
+            "text": "RT @JMihaljevic: Priceless @BeckyQuick eyeroll.\n\nBecky, it's the crypto cesspool. That's how they roll. The opposite of what you're used to\u2026",
+            "rating": 0.0,
+            "company_keywords": [
+                "crypto"
+            ]
+        },
+        {
+            "created_at": 1670947937,
+            "text": "RT @karloteran: Finally met in person @ChrisBloomstran @manualofideas latticework event. Such a nice person! He\u2019s been a great teacher to a\u2026",
+            "rating": 0.8016,
+            "company_keywords": [
+                "nice"
+            ]
+        },
+        {
+            "created_at": 1670505152,
+            "text": "RT @JMihaljevic: Carvana is a good example of sophisticated investors not seeing the forest for the trees. If you had just looked at the \"f\u2026",
+            "rating": 0.7579,
+            "company_keywords": [
+                "carvana"
+            ]
+        },
+        {
+            "created_at": 1669888406,
+            "text": "RT @nathanbaugh27: Not many 90 second videos change how I view the world.\n\nBut Charlie Munger arguing envy drives the world \u2014 not greed \u2014 c\u2026",
+            "rating": -0.5808,
+            "company_keywords": [
+                "view"
+            ]
+        },
+        {
+            "created_at": 1667480543,
+            "text": "RT @JMihaljevic: $RIG: \"...expect demand for the increasingly scarce high-capability drilling rigs Transocean owns and operates to remain s\u2026",
+            "rating": -0.128,
+            "company_keywords": [
+                "transocean"
+            ]
+        },
+        {
+            "created_at": 1654872763,
+            "text": "RT @veiled_value: What are your most pressing questions on the topic of valuation?  \nI'll be interviewing Tim Koller, co-author of McKinsey\u2026",
+            "rating": 0.0,
+            "company_keywords": [
+                "tim"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="description" />
+    <title>Log In</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'stockAdvisor/style.css' %}" />
+  </head>
+  <body>
+    {% include 'stockAdvisor/header.html' %}
+    <div class="contentDiv">
+    <h3>Log In</h3>
+    {% for message in messages %}
+    <div
+      class="alert alert-{{ message.tags }} alert-dismissible fade show"
+      role="alert"
+    >
+      {{ message }}
+    </div>
+    {% endfor %}
+    <form action="/login" method="post">
+      {% csrf_token %}
+      <label for="">Username</label>
+      <input
+        type="text"
+        id="username"
+        name="username"
+        placeholder="Enter your Username"
+        class="normalInput"
+        required
+      />
+      <br />
+      <label for="">Password</label>
+      <input
+        type="password"
+        id="pass1"
+        name="pass1"
+        placeholder="Enter your Password"
+        class="normalInput"
+        required
+      />
+      <br />
+      <button class="normalButton" action="submit">Log In</button>
+    </form>
+    <p>Don't have an account? <a href="/create">Create one now.</a></p>
+  </div>
+  </body>
+</html>

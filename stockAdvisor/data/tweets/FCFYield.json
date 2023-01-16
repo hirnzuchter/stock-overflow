@@ -1,0 +1,45 @@
+{
+    "last_updated": 1673755496,
+    "tweets": [
+        {
+            "created_at": 1672771791,
+            "text": "RT @SullyCNBC: News about to break that's big for US &amp; Germany: first ever full cargo of US LNG arriving into Germany today.\n\nGas from Vent\u2026",
+            "rating": 0.0,
+            "company_keywords": [
+                "news"
+            ]
+        },
+        {
+            "created_at": 1671732719,
+            "text": "RT @TheStalwart: Thesis: Tesla is plunging because of Elon's involvement in Twitter.\n\nAntithesis: Tesla is plunging because of the Fed's ra\u2026",
+            "rating": 0.0,
+            "company_keywords": [
+                "tesla"
+            ]
+        },
+        {
+            "created_at": 1671057796,
+            "text": "RT @XRP_Productions: \ud83d\udca5 BREAKING NEWS! \ud83d\udca5\n\nKevin O'Leary to release new Masterclass! \ud83d\ude2e https://t.co/KP5l6URntq",
+            "rating": 0.0,
+            "company_keywords": [
+                "news"
+            ]
+        },
+        {
+            "created_at": 1663331656,
+            "text": "RT @buccocapital: FedEx down 20% pre-market, would be the largest drop ever for the company. Been public since the 70's\n\nFunny anecdote fro\u2026",
+            "rating": 0.2023,
+            "company_keywords": [
+                "fedex"
+            ]
+        },
+        {
+            "created_at": 1659111864,
+            "text": "RT @SLAMonline: To our friends up north, this one's for you. \ud83c\udde8\ud83c\udde6\n\nScottie Barnes covers SLAM 239. https://t.co/5QiShW5rSW https://t.co/jA1rp\u2026",
+            "rating": -0.0601,
+            "company_keywords": [
+                "slam"
+            ]
+        }
+    ]
+}

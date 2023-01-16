@@ -1,0 +1,45 @@
+{
+    "last_updated": 1673755491,
+    "tweets": [
+        {
+            "created_at": 1673651739,
+            "text": "Greetings from the top of the highest lift in North America: Imperial Express! https://t.co/2bcOYelpeC",
+            "rating": 0.5983,
+            "company_keywords": [
+                "express"
+            ]
+        },
+        {
+            "created_at": 1673368318,
+            "text": "RT @JuanTequila2: @ben_rosen Frasier: I don't trust that at all. I'm sure it is going end up murdering someone.\n\nNiles: Nonsense, she's inc\u2026",
+            "rating": -0.8127,
+            "company_keywords": [
+                "trust"
+            ]
+        },
+        {
+            "created_at": 1673041503,
+            "text": "So the real villain is well\u2026a market that isn\u2019t or can not be responding to longer-term incentives.\n\n\u201cWell you can\u2019t build in XYZ\u201d okay but the Sunbelt exists. At a national unit level it\u2019s not that clear local restrictions do much (they might allocate resources inefficiently!).",
+            "rating": -0.5267,
+            "company_keywords": [
+                "unit"
+            ]
+        },
+        {
+            "created_at": 1672892838,
+            "text": "RT @trengriffin: Bundles reduce churn, which changes unit economics. How big the impact is matters. A lot. You determine that impact with e\u2026",
+            "rating": 0.0258,
+            "company_keywords": [
+                "unit"
+            ]
+        },
+        {
+            "created_at": 1672716132,
+            "text": "Oh great satellite internet, a system that almost can\u2019t have the number of users or the EV per sub of something like Charter (inherently poorer bandwidth and back-end scaling/flexibility/stability). And THAT\u2019S going great.",
+            "rating": 0.8591,
+            "company_keywords": [
+                "bandwidth"
+            ]
+        }
+    ]
+}

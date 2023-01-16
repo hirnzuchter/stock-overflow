@@ -1,0 +1,70 @@
+{
+    "last_updated": 1673755490,
+    "tweets": [
+        {
+            "created_at": 1637202493,
+            "text": "RT @sidecarcap: Invest in businesses that scale with people you can trust.",
+            "rating": 0.5106,
+            "company_keywords": [
+                "trust"
+            ]
+        },
+        {
+            "created_at": 1623000268,
+            "text": "... producing non zero sum outcomes, and improved quality of life.",
+            "rating": 0.4767,
+            "company_keywords": [
+                "sum"
+            ]
+        },
+        {
+            "created_at": 1608697871,
+            "text": "Effective writing expresses a clear point of view. Interesting writing tells me something I don't know. Useful writing tells me why a common belief is wrong.\n\nTell me what you think: I'll figure out what's what.",
+            "rating": 0.4393,
+            "company_keywords": [
+                "view"
+            ]
+        },
+        {
+            "created_at": 1606319217,
+            "text": "The two types of growth https://t.co/tLVvQDq8PA",
+            "rating": 0.3818,
+            "company_keywords": [
+                "two"
+            ]
+        },
+        {
+            "created_at": 1605939885,
+            "text": "There are essentially only two decision trees you need to explore today to find value creation online:",
+            "rating": 0.5423,
+            "company_keywords": [
+                "two"
+            ]
+        },
+        {
+            "created_at": 1605937678,
+            "text": "Not zero sum; you are both correct. The bridge is linear vs exponential returns. These returns are relevant to analyze given shift from tangible to intangible assets. https://t.co/xnnT0gEteg",
+            "rating": 0.1779,
+            "company_keywords": [
+                "sum",
+                "shift"
+            ]
+        },
+        {
+            "created_at": 1596566050,
+            "text": "Consolidated margins, reinvestment, &amp; unit economics https://t.co/eNra4zR0ZH https://t.co/5VCPH6VstL",
+            "rating": 0.0,
+            "company_keywords": [
+                "unit"
+            ]
+        },
+        {
+            "created_at": 1596122368,
+            "text": "Customer value proposition, unit economics, business model defensibility, reinvestment runway, unique cultural attributes https://t.co/cOHylTvcNW",
+            "rating": 0.4215,
+            "company_keywords": [
+                "unit"
+            ]
+        }
+    ]
+}

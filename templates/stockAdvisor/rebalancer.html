@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="description" />
+    <title>Rebalance Assets</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'stockAdvisor/style.css' %}" />
+  </head>
+  <body>
+    {% include 'stockAdvisor/header.html' %}
+    <div class="contentDiv">
+      {% if user.is_authenticated %}
+      <h1>Rebalance Assets</h1>
+      <p>This page forms an investing strategy using your tracked assets and investing budget.</p>
+      <hr>
+      <form action="/rebalancer" method="post">
+        {% csrf_token %}
+        <br />
+        <label for="">Enter the value, in dollars, of your total portfolio.</label>
+        <br />
+        <input
+          type="number"
+          id="budget"
+          name="budget"
+          placeholder="Investing Budget"
+          class="normalInput"
+          step="0.01"
+          required
+        />
+        <br />
+        <label for="strategy">Choose your desired investing strategy.</label>
+        <br />
+        <select class="normalInput" name="strategy" id="strategy">
+          <option value="momentum_strategy">Momentum Investing</option>
+          <option value="sentiment_analysis">Sentiment Analysis</option>
+          <option value="balance_risk">Risk Allocation</option>
+          <option value="expected_returns">Expected Returns</option>
+        </select>
+        <br />
+        <button class="normalButton" action="submit">Rebalance</button>
+      </form>
+      {% if data %}
+      <hr>
+      <h2>Your Rebalancing Strategy</h2>
+      Using a {{strategy}}, you should expect to invest approximately 
+      {% for asset in data %}
+      ${{asset.dollar_amount}}({{asset.percentage}}%) in {{asset.asset}},
+      {% endfor %}
+      and ${{last.dollar_amount}}({{last.percentage}}%) in {{last.asset}}.
+      <span>{% autoescape off %}{{pie}}{% endautoescape %}</span>
+      <span>{% autoescape off %}{{bar}}{% endautoescape %}</span>
+      {% endif %}
+      {% else %}
+      <p>You are not logged in.</p>
+      {% endif %}
+    </div>
+  </body>
+</html>

@@ -1,0 +1,45 @@
+{
+    "last_updated": 1673755496,
+    "tweets": [
+        {
+            "created_at": 1673451646,
+            "text": "i kind of can't believe that there isn't a financial newsletter already doing this as a bit, like if you're the sort of person who says \"shall\" for \"will\" surely you'd enjoy saying \"permyriad\" for \"bp\"",
+            "rating": 0.8225,
+            "company_keywords": [
+                "bp"
+            ]
+        },
+        {
+            "created_at": 1673278923,
+            "text": "honestly my proudest achievement as a journalist, breaking a bank's machine-learning algorithm for summarizing the news https://t.co/aRhMXbpshp",
+            "rating": 0.765,
+            "company_keywords": [
+                "news"
+            ]
+        },
+        {
+            "created_at": 1672343348,
+            "text": "to be clear, there is not. he just did not take out a tesla margin loan to buy twitter - thought about it, did not do it. (that said, he had previously pledged shares to secure personal indebtedness, who knows what's up with that.)",
+            "rating": 0.7351,
+            "company_keywords": [
+                "tesla"
+            ]
+        },
+        {
+            "created_at": 1668287469,
+            "text": "obviously \"you got suckered by SBF\" seems to be a reasonable criticism of me though i do not really see how it pays off in my work, it's not like i went around telling people to buy crypto through FTX or anything.",
+            "rating": -0.7912,
+            "company_keywords": [
+                "crypto"
+            ]
+        },
+        {
+            "created_at": 1667672916,
+            "text": "remember when everyone on finance twitter was on ello for like two weeks",
+            "rating": 0.3612,
+            "company_keywords": [
+                "two"
+            ]
+        }
+    ]
+}

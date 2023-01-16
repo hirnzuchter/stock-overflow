@@ -1,0 +1,38 @@
+{
+    "last_updated": 1673755493,
+    "tweets": [
+        {
+            "created_at": 1647309726,
+            "text": "RT @zerohedge: For the past two years, China had at most 50-100 new daily covid cases. Now it's 5000, and it is shutting down key supply ch\u2026",
+            "rating": 0.0,
+            "company_keywords": [
+                "now",
+                "two"
+            ]
+        },
+        {
+            "created_at": 1646191595,
+            "text": "RT @RampCapitalLLC: When the President talks up Pfizer and Ford and your calls are about to print tomorrow https://t.co/4Y2XtpY90t",
+            "rating": 0.0,
+            "company_keywords": [
+                "pfizer"
+            ]
+        },
+        {
+            "created_at": 1644623591,
+            "text": "RT @AlbertBridgeCap: I think I just found the single most compelling reason to shift some of your portfolio of investments into European va\u2026",
+            "rating": 0.2944,
+            "company_keywords": [
+                "shift"
+            ]
+        },
+        {
+            "created_at": 1643156347,
+            "text": "RT @zerohedge: Pfizer Board Member Suggests End To Mask, Vaccine Mandates https://t.co/mwzKYu0YCL",
+            "rating": 0.0,
+            "company_keywords": [
+                "pfizer"
+            ]
+        }
+    ]
+}

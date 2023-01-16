@@ -1,0 +1,101 @@
+{
+    "last_updated": 1673755491,
+    "tweets": [
+        {
+            "created_at": 1663591734,
+            "text": "RT @FXstreetReports: Stock market: Three Islands of strength in a sea of red \u2013 by @JacobWolinsky\n\nhttps://t.co/qFR4lob9dJ\n\n #Equities #Macr\u2026",
+            "rating": 0.4939,
+            "company_keywords": [
+                "sea"
+            ]
+        },
+        {
+            "created_at": 1663591727,
+            "text": "RT @FXstreetReports: Stock market: Three Islands of strength in a sea of red \u2013 by @JacobWolinsky\n\nhttps://t.co/JrQTCXvlf8\n\n #Equities #Macr\u2026",
+            "rating": 0.4939,
+            "company_keywords": [
+                "sea"
+            ]
+        },
+        {
+            "created_at": 1656700469,
+            "text": "RT @FXScrypto: How The Fed hikes are affecting the choppy crypto market By @JacobWolinsky https://t.co/YwSL2G4Z5a #Bitcoin #CryptoCurrencies",
+            "rating": 0.0,
+            "company_keywords": [
+                "crypto"
+            ]
+        },
+        {
+            "created_at": 1654566471,
+            "text": "RT @advisorpedia: Gold Is So Far Little Affected by Changing Crypto, Stock Prices and Economic Data https://t.co/e4izLB4fI1 @JacobWolinsky",
+            "rating": -0.1458,
+            "company_keywords": [
+                "crypto"
+            ]
+        },
+        {
+            "created_at": 1654268694,
+            "text": "RT @advisorpedia: Gold Is So Far Little Affected by Changing Crypto, Stock Prices and Economic Data https://t.co/LqvjCYEpqc @JacobWolinsky",
+            "rating": -0.1458,
+            "company_keywords": [
+                "crypto"
+            ]
+        },
+        {
+            "created_at": 1650385842,
+            "text": "RT @valuewalk: Greenlight Capital Q122 Full Letter: The Fed Now Realizes It Has An Inflation Problem https://t.co/0EoPYY3Lee #NYSETECK #dav\u2026",
+            "rating": -0.4019,
+            "company_keywords": [
+                "now"
+            ]
+        },
+        {
+            "created_at": 1650385840,
+            "text": "RT @valuewalk: GREENLIGHT CAPITAL Q122 FULL LETTER: THE FED NOW REALIZES IT HAS AN INFLATION PROBLEM  https://t.co/y2HcDmiFjh $SPY",
+            "rating": -0.5319,
+            "company_keywords": [
+                "now"
+            ]
+        },
+        {
+            "created_at": 1646314115,
+            "text": "Heard from a very good source citadel has been hit past few days and had to unwind a lot of tech positions (not confirmed, and not tweeting this as news or on behalf of valuewalk)",
+            "rating": 0.4927,
+            "company_keywords": [
+                "news"
+            ]
+        },
+        {
+            "created_at": 1642027824,
+            "text": "RT @FXstreetReports: A volatile ride for tech stocks and crypto as worries about inflation resurface By @JacobWolinsky https://t.co/BtF1xzv\u2026",
+            "rating": -0.4215,
+            "company_keywords": [
+                "crypto"
+            ]
+        },
+        {
+            "created_at": 1641581413,
+            "text": "This is the best feature apple ever made https://t.co/hl4M1XztTb",
+            "rating": 0.6369,
+            "company_keywords": [
+                "apple"
+            ]
+        },
+        {
+            "created_at": 1640286654,
+            "text": "RT @garyHeff: \u201c20% of new home purchases made in america in the last 12 months were made with crypto gains\u201d - @Melt_Dem quoting @fundstrat\u2026",
+            "rating": 0.0,
+            "company_keywords": [
+                "crypto"
+            ]
+        },
+        {
+            "created_at": 1640206551,
+            "text": "RT @katie_martin_fx: @fed_speak \"every crypto chick\" FTW",
+            "rating": 0.5766,
+            "company_keywords": [
+                "crypto"
+            ]
+        }
+    ]
+}

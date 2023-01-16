@@ -1,0 +1,29 @@
+{
+    "last_updated": 1673755498,
+    "tweets": [
+        {
+            "created_at": 1523058834,
+            "text": "...I still lean towards Blockchain awaits its netscape moment. Stage is set for high-throughput infrastructure such that a real DAPP can be run smoothly. Now it's up to the entrepreneurs to prove this nascent industry not just only sound and fury that signifies nothing.",
+            "rating": -0.5267,
+            "company_keywords": [
+                "now"
+            ]
+        },
+        {
+            "created_at": 1502913375,
+            "text": "RT @blockbuster: Tweet why you\u2019re leaving Netflix. The top three most creative tweets using #GoodbyeNetflix will win a 1-year subscription\u2026",
+            "rating": 0.8313,
+            "company_keywords": [
+                "netflix"
+            ]
+        },
+        {
+            "created_at": 1461184800,
+            "text": "Awesome numbers by $PTC",
+            "rating": 0.6249,
+            "company_keywords": [
+                "ptc"
+            ]
+        }
+    ]
+}

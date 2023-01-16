@@ -1,0 +1,30 @@
+{
+    "last_updated": 1673755491,
+    "tweets": [
+        {
+            "created_at": 1639574988,
+            "text": "Now reading the great Charles Taylor https://t.co/2Vyw9v9D0J",
+            "rating": 0.6249,
+            "company_keywords": [
+                "now"
+            ]
+        },
+        {
+            "created_at": 1581719200,
+            "text": "RT @TheBabylonBee: Updated Valentine's Day Cards Now Include Long Form Asking For Consent https://t.co/EsuwOkvTtc",
+            "rating": 0.2263,
+            "company_keywords": [
+                "now"
+            ]
+        },
+        {
+            "created_at": 1514469767,
+            "text": "RT @TheBabylonBee: Man Bravely Abandons Unpopular Christian Belief To Affirm Extremely Popular Cultural Belief https://t.co/J7Ggj3QQE6 http\u2026",
+            "rating": 0.624,
+            "company_keywords": [
+                "affirm",
+                "popular"
+            ]
+        }
+    ]
+}

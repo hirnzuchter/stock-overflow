@@ -1,0 +1,53 @@
+{
+    "last_updated": 1673755498,
+    "tweets": [
+        {
+            "created_at": 1673723509,
+            "text": "Nice job, Alf! He makes a lot of strong points. you all should read this https://t.co/cHbDoLPjXt",
+            "rating": 0.75,
+            "company_keywords": [
+                "nice"
+            ]
+        },
+        {
+            "created_at": 1673629144,
+            "text": "Two minutes https://t.co/jqphBOMKa7",
+            "rating": 0.0,
+            "company_keywords": [
+                "two"
+            ]
+        },
+        {
+            "created_at": 1673535740,
+            "text": "Then: \"The Fed wants to wreck the wreck the economy\" \n\nNow: \"Well, the Fed WANTED to wreck the economy and they almost did. We're lucky they're clueless.\" https://t.co/WtjXDd70Uc",
+            "rating": -0.7322,
+            "company_keywords": [
+                "now"
+            ]
+        },
+        {
+            "created_at": 1673451667,
+            "text": "The bad news: It's all in dogecoin https://t.co/NBXilC9p1e",
+            "rating": -0.5423,
+            "company_keywords": [
+                "news"
+            ]
+        },
+        {
+            "created_at": 1673380341,
+            "text": "RT @Brad_Setser: Going back to an earlier chart, imports lagged US demand in the summer of 21 (blocked ports amid the pandemic shift toward\u2026",
+            "rating": -0.4019,
+            "company_keywords": [
+                "shift"
+            ]
+        },
+        {
+            "created_at": 1673360433,
+            "text": "Crypto 2020: Code is law\n\nCrypto 2023: Regulation is survival",
+            "rating": 0.0,
+            "company_keywords": [
+                "crypto"
+            ]
+        }
+    ]
+}

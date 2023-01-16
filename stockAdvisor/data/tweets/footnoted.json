@@ -1,0 +1,21 @@
+{
+    "last_updated": 1673755491,
+    "tweets": [
+        {
+            "created_at": 1672345431,
+            "text": "A very geeky question, but how often are SIC codes updated? See Netflix description below. https://t.co/RGYn4Oxk41",
+            "rating": -0.1145,
+            "company_keywords": [
+                "netflix"
+            ]
+        },
+        {
+            "created_at": 1668630412,
+            "text": "Missed this news last week with everything else going on, but @EDGAR_Online, the OG of SEC filings, was sold last week, undoubtedly for a lot less than RR Donnelly paid for them a decade ago. https://t.co/FTlkwofX4o",
+            "rating": -0.1531,
+            "company_keywords": [
+                "news"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "last_updated": 1673755493,
+    "tweets": [
+        {
+            "created_at": 1667946879,
+            "text": "RT @quantian1: With the crypto collapse, I expect thousands of bottles of rare vintage Mountain Dew to hit the auction block.",
+            "rating": -0.7269,
+            "company_keywords": [
+                "crypto",
+                "block"
+            ]
+        },
+        {
+            "created_at": 1667234682,
+            "text": "Blackberry vs Apple shipments 2007-2011. Blackberry shipments wouldn't decline until mid 2010, but Blackberry's stock started going down in mid 2008 https://t.co/YfpswoSX36",
+            "rating": 0.0,
+            "company_keywords": [
+                "blackberry",
+                "apple"
+            ]
+        },
+        {
+            "created_at": 1666239016,
+            "text": "there seems to be a Netflix series loosely based on Wirecard called King of Stonks... it's not very good but it is there",
+            "rating": -0.2051,
+            "company_keywords": [
+                "netflix"
+            ]
+        },
+        {
+            "created_at": 1666204696,
+            "text": "RT @e_asherah: m.i.a. is kanye for fiona apple girls",
+            "rating": 0.0,
+            "company_keywords": [
+                "apple"
+            ]
+        }
+    ]
+}

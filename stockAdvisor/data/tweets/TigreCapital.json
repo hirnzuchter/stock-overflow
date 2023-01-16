@@ -1,0 +1,53 @@
+{
+    "last_updated": 1673755497,
+    "tweets": [
+        {
+            "created_at": 1446165318,
+            "text": "So for the new iPhone did Apple just say we'll call them moving photos but really they are just videos and call it a day?",
+            "rating": 0.0,
+            "company_keywords": [
+                "apple"
+            ]
+        },
+        {
+            "created_at": 1441824055,
+            "text": "Apple getting in on the ros\u00e9 trend?\nhttps://t.co/UWGNFpE5DS",
+            "rating": 0.0,
+            "company_keywords": [
+                "apple"
+            ]
+        },
+        {
+            "created_at": 1441642042,
+            "text": "I think I've sent and received maybe two snapchats but I look at the Comedy Central and ESPN stories almost every day",
+            "rating": 0.5023,
+            "company_keywords": [
+                "two"
+            ]
+        },
+        {
+            "created_at": 1435966157,
+            "text": "I know at least 6 people that are looking for houses with side houses or are building an add-on to do AirBnB. Hello more supply",
+            "rating": 0.0,
+            "company_keywords": [
+                "airbnb"
+            ]
+        },
+        {
+            "created_at": 1435451861,
+            "text": "Every time I go into a Nike store I think they can't possibly raise their prices any higher and every year I'm wrong",
+            "rating": -0.4767,
+            "company_keywords": [
+                "nike"
+            ]
+        },
+        {
+            "created_at": 1434035628,
+            "text": "Stocks have felt very weird past two days, almost mechanical and not just in stuff that's getting bounced around by R2K reconstitution",
+            "rating": -0.2484,
+            "company_keywords": [
+                "two"
+            ]
+        }
+    ]
+}

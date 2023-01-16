@@ -1,0 +1,53 @@
+{
+    "last_updated": 1673755495,
+    "tweets": [
+        {
+            "created_at": 1504028682,
+            "text": "I had a family + their elderly neighbor delivered to me by boat.  to my front steps. https://t.co/LD3p5dHrsm",
+            "rating": 0.0,
+            "company_keywords": [
+                "delivered"
+            ]
+        },
+        {
+            "created_at": 1504025193,
+            "text": "Roads are impassable so news cant get there; imagine will start to see helicopter footage now with better weather.",
+            "rating": 0.4404,
+            "company_keywords": [
+                "news"
+            ]
+        },
+        {
+            "created_at": 1494516697,
+            "text": "RT @KeyserSozeCFA: Hertz:-20% after earnings\nYelp:-20% after earnings\nSnap:-20% after earnings\n\nNote to self: Stay the hell away from stock\u2026",
+            "rating": -0.6808,
+            "company_keywords": [
+                "yelp"
+            ]
+        },
+        {
+            "created_at": 1494264645,
+            "text": "About to takeoff / go yellow dot just as rumors of my team's quitting / blowup are launching. Excited to turn phone on in 4hrs",
+            "rating": 0.34,
+            "company_keywords": [
+                "yellow"
+            ]
+        },
+        {
+            "created_at": 1492570333,
+            "text": "Hmm should I take an hour or two to ballpark my tax extension payment, or just stroke a 5 figure check and hope I come close...",
+            "rating": 0.4404,
+            "company_keywords": [
+                "two"
+            ]
+        },
+        {
+            "created_at": 1491057949,
+            "text": "Happy \"Barron's recommending Caterpillar based only on its 3% div yield\" Saturday to ya, guys",
+            "rating": 0.5719,
+            "company_keywords": [
+                "caterpillar"
+            ]
+        }
+    ]
+}

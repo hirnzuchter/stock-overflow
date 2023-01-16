@@ -1,0 +1,53 @@
+{
+    "last_updated": 1673755490,
+    "tweets": [
+        {
+            "created_at": 1672880218,
+            "text": "RT @dnystedt: Dell has asked laptop supply chain partners to relocate 50% of production capacity out of China by 2025, media report, adding\u2026",
+            "rating": 0.0,
+            "company_keywords": [
+                "dell"
+            ]
+        },
+        {
+            "created_at": 1671633634,
+            "text": "RT @Willyintheworld: Babe wake up, new Apple Store just dropped https://t.co/evNgwGcy9t https://t.co/jBQNyNLfMw",
+            "rating": 0.0,
+            "company_keywords": [
+                "apple"
+            ]
+        },
+        {
+            "created_at": 1671424052,
+            "text": "RT @DrChrisCombs: With the news that L3 Harris is acquiring Aerojet Rocketdyne, it\u2019s a good time to re-up (and I guess update?) this always\u2026",
+            "rating": 0.4404,
+            "company_keywords": [
+                "news"
+            ]
+        },
+        {
+            "created_at": 1668132324,
+            "text": "RT @pewjournalism: % of U.S. adults who regularly get news on:\nFacebook \u2013 31%\nYouTube \u2013 25%\nTwitter \u2013 14%\nInstagram \u2013 13%\nTikTok \u2013 10%\nRedd\u2026",
+            "rating": 0.0,
+            "company_keywords": [
+                "news"
+            ]
+        },
+        {
+            "created_at": 1664485890,
+            "text": "RT @keithgessen: I spoke to a number of brilliant people who study war, and the ending of wars in particular, to see how they view the poss\u2026",
+            "rating": -0.5267,
+            "company_keywords": [
+                "view"
+            ]
+        },
+        {
+            "created_at": 1662901764,
+            "text": "RT @Fxhedgers: US FREIGHT RAILROADS WILL REDUCE SERVICE STARTING MONDAY AFTER TWO OF THE LARGEST RAIL UNIONS FAILED TO AGREE TO A CONTRACT",
+            "rating": -0.2023,
+            "company_keywords": [
+                "two"
+            ]
+        }
+    ]
+}

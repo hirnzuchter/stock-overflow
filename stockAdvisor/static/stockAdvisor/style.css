@@ -1,0 +1,151 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: linear-gradient(rgb(0, 162, 255), rgb(175, 175, 253));
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.flexCol{
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  width: 100%;
+}
+
+.flexx{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  justify-items: center;
+  align-items: center;
+  width: 100%;
+}
+
+.normalInput{
+  text-align: center;
+  width: 90%;
+  max-width: 400px;
+  height: 40px;
+  margin: 20px;
+}
+
+.normalInput::placeholder{
+  font-size: 110%;
+}
+
+.normalButton{
+  color: white;
+  padding: 10px;
+  background-color: rgb(1, 1, 63);
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.dropdown{
+  text-align: center;
+  height: 50px;
+  margin: 20px;
+  border: 1px solid gray;
+  border-radius: 1px;
+}
+
+.link{
+  text-decoration: underline;
+  color: blue;
+}
+
+.displayNone{
+  display: none;
+}
+
+.placeholder{
+  color: rgb(107, 107, 107);
+  font-size: auto;
+  display: flex;
+  justify-content: bottom;
+  margin: auto; 
+  margin: 15px;
+}
+
+.options{
+  border: 1px solid gray;
+  padding: 0px;
+  height: fit-content;
+}
+
+.option{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid gray;
+  margin: 0px;
+  font-size: 95%;
+}
+
+.dropdownImg{
+  width: 19px;
+  height: 19px;
+  margin-left: 10px;
+}
+
+.tab{
+  color: white;
+  padding: 15px;
+  padding-right: 50px;
+  padding-left: 50px;
+  background-color: rgb(1, 1, 63);
+  border-radius: 5px;
+}
+
+
+.activeTab{
+  color: white;
+  padding: 15px;
+  padding-right: 50px;
+  padding-left: 50px;
+  background-color: rgb(37, 37, 155);
+  border-radius: 5px;
+}
+
+.inform{
+  color: gray;
+}
+
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-bottom: 1px solid black;
+  margin-bottom: 20px;
+  background-color: white;
+  color: black;
+}
+
+.contentDiv{
+  background-color: white;
+  width: 90%;
+  max-width: 900px;
+  padding: 50px;
+  padding-bottom: 250px;
+  border-radius: 5px;
+  margin: auto;
+  margin-bottom: 2vw;
+}
+
+#logo{
+  width: 90px;
+  height: 90px;
+  margin-right: 10px; 
+}

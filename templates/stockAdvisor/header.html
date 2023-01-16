@@ -1,0 +1,18 @@
+<header class='header'>  
+    {% load static %}
+    <h1 class='header'><img src='{% static "stockAdvisor/logo.png" %}' id="logo"/>Stock Overflow</h1>
+    <form action="/rebalancer"><button class="tab">Rebalance Assets</button></form>
+    <form action="/profile"><button class="tab">Stock Tracker</button></form>
+    {% if user.is_authenticated %}
+    <form action="/signout">
+        <input type="submit" class="tab" value="Log Out" />
+    </form>
+    {% else %}
+    <form action="/create">
+        <input type="submit" class="tab" value="Sign Up" />
+    </form>
+    <form action="/login">
+        <input type="submit" class="tab" value="Log In" />
+    </form>
+    {% endif %}
+</header>

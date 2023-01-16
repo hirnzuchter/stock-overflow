@@ -1,0 +1,29 @@
+{
+    "last_updated": 1673755496,
+    "tweets": [
+        {
+            "created_at": 1490139834,
+            "text": "We believe $TFS resembles collapsed agricultural MIS companies like Timbercorp and Great Southern. @TFSCorp @quintisltd $TFC $QIN #quintis",
+            "rating": 0.6705,
+            "company_keywords": [
+                "southern"
+            ]
+        },
+        {
+            "created_at": 1484869317,
+            "text": "In other news, the sky is blue.  https://t.co/amEh1V2foU",
+            "rating": 0.0,
+            "company_keywords": [
+                "news"
+            ]
+        },
+        {
+            "created_at": 1398290577,
+            "text": "We are short Asia Plastic Recycling (\u201cAPR\u201d) (TWSE: 1337) with a price target of TWD 0.00. Our full report is at https://t.co/ktIznTmt5x",
+            "rating": 0.0,
+            "company_keywords": [
+                "target"
+            ]
+        }
+    ]
+}
