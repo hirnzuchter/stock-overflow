@@ -28,9 +28,7 @@ the paid tier would be purchased.
 For strategy performance testing, take the user's favorited assets, and load only the data for these.
 This would mean, of course, that the user may only incorporate these in the strategy to be
 backtested. However, we are assuming that the user already tracks the assets with which
-they plan to center strategies around. For expected strategy return, there are two values:
-one for which we have made the ceteris paribus assumption, and the other stemming from
-averaging the results of Monte Carlo simulations. Include all of our rebalancing strategies
+they plan to center strategies around. For Forecasting Tool, I plan to add a Monte Carlo simulation. Include all of our rebalancing strategies
 as presets for the Backtesting and Forecasting Tools. Every time the sentimental analysis tool is run, 
 have it check if the time the data was last updated was more than 60 minutes ago, and if this is true,
 update the data. Add a "help" feature, which explains how to choose and tracks assets you think are valuable, 
