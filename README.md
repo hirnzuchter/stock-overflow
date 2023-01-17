@@ -37,7 +37,8 @@ and how to use Stock Overflow's tools to form strategies. Allow the user to uplo
 store it in a database, and associate that strategy with their User. Then, they may use it
 in the Rebalance Tool, Backtesting Tool, or Forecasting Tool. For the strategies, besides a python code editor,
 it would also be neat to include a visual code editor, like they have at https://vr.vex.com/,
-so that people who are new to code may also build strategies.
+so that people who are new to code may also build strategies. Saved strategies can be shared with other users.
+They can also be made visible to all, visible only to the user's collaborators, or private.
 
 ## Execution Instructions
 1. Have Python installed on your system.
