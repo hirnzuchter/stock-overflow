@@ -34,7 +34,9 @@ have it check if the time the data was last updated was more than 60 minutes ago
 update the data. Add a "help" feature, which explains how to choose and tracks assets you think are valuable, 
 and how to use Stock Overflow's tools to form strategies. Allow the user to upload code,
 store it in a database, and associate that strategy with their User. Then, they may use it
-in the Rebalance Tool, Backtesting Tool, or Forecasting Tool.
+in the Rebalance Tool, Backtesting Tool, or Forecasting Tool. For the strategies, besides a python code editor,
+it would also be neat to include a visual code editor, like they have at https://vr.vex.com/,
+so that people who are new to code may also build strategies.
 
 ## Execution Instructions
 1. Have Python installed on your system.
