@@ -23,6 +23,7 @@ the paid tier would be purchased.
     - Sentimental Analysis Strategy
         - Data Update Feature
 - Help
+- Forum
  
 ### Future Features Notes
 For strategy performance testing, take the user's favorited assets, and load only the data for these.
